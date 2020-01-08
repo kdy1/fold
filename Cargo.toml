@@ -1,0 +1,12 @@
+[package]
+name = "fold"
+description = "Automatically create a type foldable with proc macro"
+version = "0.1.0"
+authors = ["강동윤 <kdy1997.dev@gmail.com>"]
+edition = "2018"
+homepage = "https://github.com/kdy1/fold"
+repository = "https://github.com/kdy1/fold.git"
+license = "MIT"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
